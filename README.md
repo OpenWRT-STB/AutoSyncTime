@@ -2,7 +2,7 @@
 
 Panduan ini menjelaskan langkah-langkah untuk meng-upload dan menjalankan skrip `timesync` di OpenWRT.
 
-##Fungsi
+## Fungsi
 script ini berfungsi untuk mengambil data jam dan tanggal dari perangkat modem Android untuk set Jam dan tanggal di OpenWRT.
 
 ## Prasyarat
