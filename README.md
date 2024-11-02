@@ -51,6 +51,7 @@ script ini berfungsi untuk mengambil data jam dan tanggal dari perangkat modem A
      /usr/bin/bled -r
      sleep 3 &&
      timesync &&
+     sleep 5 &&
      flymode && (jika anda memilikinya)
      ```
 
